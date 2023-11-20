@@ -1,2 +1,2 @@
-# landing-page-anjos-perdidos
-Landing Page "Anjos Perdidos" - Plataforma para busca de pessoas desaparecidas.
+# Projeto pessoal | Landing page 'ANJOS PERDIDOS'
+- Landing Page "Anjos Perdidos" - Plataforma para busca de pessoas desaparecidas.
